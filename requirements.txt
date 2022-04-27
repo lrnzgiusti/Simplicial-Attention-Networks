@@ -35,7 +35,6 @@ hdf5storage==0.1.18
 idna
 importlib-metadata==4.10.0
 ipykernel==6.6.0
-ipython==7.30.1
 isodate==0.6.1
 jedi==0.18.1
 Jinja2
@@ -53,7 +52,7 @@ mkl-service==2.3.0
 multidict==5.2.0
 nest-asyncio==1.5.4
 networkx
-numpy==1.20.0
+numpy==1.22.0
 oauthlib==3.1.1
 olefile==0.46
 packaging==21.3
@@ -76,9 +75,8 @@ pyparsing
 PySocks
 python-dateutil
 python-louvain
-pytorch-lightning==1.5.7
+pytorch-lightning==1.6.1
 pytz
-PyYAML==5.3.1
 pyzmq==22.3.0
 rdflib==6.1.1
 requests
