@@ -75,7 +75,7 @@ pyparsing
 PySocks
 python-dateutil
 python-louvain
-pytorch-lightning==1.6.1
+pytorch-lightning==1.6.0
 pytz
 pyzmq==22.3.0
 rdflib==6.1.1

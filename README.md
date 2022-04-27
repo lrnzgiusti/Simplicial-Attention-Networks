@@ -3,10 +3,14 @@
 This is the official code for the paper:
 [Simplicial Attention Neural Networks](https://arxiv.org/abs/2203.07485), *arXiv:2203.07485*, 2022.
 
-### Imputing missing data with graph neural networks
+### Abstract 
 
-We present simplicial attention neural networks (SNNs), a generalization of graph attention networks to data defined over simplicial complexes.
-
+The aim of this work is to introduce Simplicial Attention Neural Networks (SANs), i.e., novel neural architectures that operate on data defined on simplicial complexes
+leveraging masked self-attentional layers. Hinging on formal arguments from topological signal processing, we introduce a proper self-attention mechanism able
+to process data components at different layers (e.g., nodes, edges, triangles, and so on), while learning how to weight both upper and lower neighborhoods of the given
+topological domain in a task-oriented fashion. The proposed SANs generalize most of the current architectures available for processing data defined on simplicial
+complexes. The proposed approach compares favorably with other methods when applied to different (inductive and transductive) tasks such as trajectory prediction
+and missing data imputations in citation complexes.
 
 ### Organization of the code
 
@@ -22,3 +26,11 @@ The core of the layers described in the paper can be found in *layers/simplicial
 ### Cite
 
 Please cite [our paper](https://arxiv.org/abs/2203.07485) if you use this code in your own work:
+```
+@article{giusti2022simplicial,
+  title={Simplicial Attention Networks},
+  author={Giusti, Lorenzo and Battiloro, Claudio and Di Lorenzo, Paolo and Sardellitti, Stefania and Barbarossa, Sergio},
+  journal={arXiv preprint arXiv:2203.07485},
+  year={2022}
+}
+```
