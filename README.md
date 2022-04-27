@@ -4,8 +4,8 @@ This is the official code for the paper:
 [Simplicial Attention Neural Networks](https://arxiv.org/abs/2203.07485), *arXiv:2203.07485*, 2022.
 
 
+![Maps](https://github.com/lrnzgiusti/Simplicial-Attention-Networks/blob/main/assets/maps.jpg)
 ![Architecture](https://github.com/lrnzgiusti/Simplicial-Attention-Networks/blob/main/assets/arch.png)
-![Maps](https://github.com/lrnzgiusti/Simplicial-Attention-Networks/blob/main/assets/map.jpg)
 
 ### Abstract 
 
