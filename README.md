@@ -3,6 +3,10 @@
 This is the official code for the paper:
 [Simplicial Attention Neural Networks](https://arxiv.org/abs/2203.07485), *arXiv:2203.07485*, 2022.
 
+
+![Architecture](https://github.com/lrnzgiusti/Simplicial-Attention-Networks/blob/main/assets/arch.png)
+![Maps](https://github.com/lrnzgiusti/Simplicial-Attention-Networks/blob/main/assets/map.jpg)
+
 ### Abstract 
 
 The aim of this work is to introduce Simplicial Attention Neural Networks (SANs), i.e., novel neural architectures that operate on data defined on simplicial complexes
@@ -18,9 +22,9 @@ The core of the layers described in the paper can be found in *layers/simplicial
 
 ### References
 
-[1] Veličković, Petar, et al. **Graph Attention Networks**. arXiv preprint arXiv:1710.10903 (2017).
-[2] Kipf, T.N. and Welling, M., 2016. **Semi-supervised classification with graph convolutional networks**. arXiv preprint arXiv:1609.02907.
-[4] Ebli, Stefania, Michaël Defferrard, and Gard Spreemann. **Simplicial neural networks**. arXiv preprint arXiv:2010.03633 (2020).
+[1] Veličković, Petar, et al. **Graph Attention Networks**. arXiv preprint arXiv:1710.10903 (2017). <br>
+[2] Kipf, T.N. and Welling, M., 2016. **Semi-supervised classification with graph convolutional networks**. arXiv preprint arXiv:1609.02907. <br>
+[4] Ebli, Stefania, Michaël Defferrard, and Gard Spreemann. **Simplicial neural networks**. arXiv preprint arXiv:2010.03633 (2020). <br>
 [3] Barbarossa, Sergio, and Stefania Sardellitti. **Topological signal processing over simplicial complexes**. IEEE Transactions on Signal Processing 68 (2020): 2992-3007.
 
 ### Cite
