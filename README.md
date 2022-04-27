@@ -7,7 +7,6 @@ This is the official code for the paper:
 
 We present simplicial attention neural networks (SNNs), a generalization of graph attention networks to data defined over simplicial complexes.
 
-![Generic schematics of our imputation method](https://github.com/spindro/GINN/blob/master/download.png)
 
 ### Organization of the code
 
@@ -23,12 +22,3 @@ The core of the layers described in the paper can be found in *layers/simplicial
 ### Cite
 
 Please cite [our paper](https://arxiv.org/abs/2203.07485) if you use this code in your own work:
-
-```
-@article{spinelli2019ginn,
-  title={Missing Data Imputation with Adversarially-trained Graph Convolutional Networks},
-  author={Spinelli, Indro and Scardapane, Simone and Aurelio, Uncini},
-  journal={arXiv preprint arXiv:1905.01907},
-  year={2019}
-}
-```
