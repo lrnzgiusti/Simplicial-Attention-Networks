@@ -29,7 +29,7 @@ The core of the layers described in the paper can be found in *layers/simplicial
 
 ### Cite
 
-Please cite [our paper](https://arxiv.org/abs/2203.07485) if you use this code in your own work:
+If you found this useful, please consider to cite [our paper](https://arxiv.org/abs/2203.07485):
 ```
 @article{giusti2022simplicial,
   title={Simplicial Attention Networks},
